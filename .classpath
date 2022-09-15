@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/caffeine-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/checker-qual-3.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/error_prone_annotations-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/fluent-hc-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/hppcrt-0.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/httpclient-cache-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/httpclient-osgi-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/httpcore-nio-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/httpcore-osgi-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/httpmime-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/jackson-annotations-2.9.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/jackson-core-2.9.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/jackson-databind-2.9.10.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/jcl-over-slf4j-1.7.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/jsonld-java-0.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/jsr305-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/owlapi-api-4.5.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/owlapi-apibinding-4.5.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/owlapi-compatibility-4.5.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/owlapi-distribution-4.5.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/owlapi-fixers-4.5.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/owlapi-impl-4.5.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/owlapi-oboformat-4.5.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/owlapi-parsers-4.5.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/owlapi-rio-4.5.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/owlapi-tools-4.5.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/rdf4j-model-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/rdf4j-rio-api-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/rdf4j-rio-binary-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/rdf4j-rio-datatypes-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/rdf4j-rio-jsonld-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/rdf4j-rio-languages-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/rdf4j-rio-n3-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/rdf4j-rio-nquads-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/rdf4j-rio-ntriples-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/rdf4j-rio-rdfjson-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/rdf4j-rio-rdfxml-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/rdf4j-rio-trig-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/rdf4j-rio-trix-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/rdf4j-rio-turtle-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/rdf4j-util-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/slf4j-api-1.7.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/Downloads/OWL_API_4.5.22/xz-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/eclipse-workspace/AROM/lib/Alignment API 4.9/align.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/eclipse-workspace/AROM/lib/Alignment API 4.9/alignsvc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/eclipse-workspace/AROM/lib/Alignment API 4.9/ontowrap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/eclipse-workspace/AROM/lib/Alignment API 4.9/procalign.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/eclipse-workspace/AROM/lib/ELK 0.4.2/elk-owlapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/eclipse-workspace/AROM/lib/ELK 0.4.2/elk-owlapi-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/eclipse-workspace/AROM/lib/ELK 0.4.2/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Inès Osman/eclipse-workspace/AROM/lib/ELK 0.4.2/log4j-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
