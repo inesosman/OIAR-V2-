@@ -1,2 +1,5 @@
 # OIAR (V2)
-Simply merging multiple OWL ontologies using pairwise RDF alignments (This OIAR version is written in OWL API 4.5)
+
+Please see the original [OIAR version](https://github.com/inesosman/OIAR) for a more detailed documentation.
+
+In the original OIAR version, we have used the oldest OWL API version (OWL API 3.5); while in this OIAR version, we have used a newer OWL API version (OWL API 4.5).
