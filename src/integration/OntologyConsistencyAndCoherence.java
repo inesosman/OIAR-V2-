@@ -23,7 +23,7 @@ public class OntologyConsistencyAndCoherence {
 
 		//OWLReasonerFactory reasonerFactory = new StructuralReasonerFactory(); // with the default reasoner
 		//OWLReasonerFactory reasonerFactory = new Reasoner.ReasonerFactory(); // with HermiT reasoner
-        OWLReasonerFactory reasonerFactory = new ElkReasonerFactory(); // with ELK reasoner
+                OWLReasonerFactory reasonerFactory = new ElkReasonerFactory(); // with ELK reasoner
 		
 		LogManager.getLogger("org.semanticweb.elk").setLevel(Level.OFF); // Level.ERROR
 		//LogManager.getLogger("org.semanticweb.elk.reasoner.indexing").setLevel(Level.ERROR);
